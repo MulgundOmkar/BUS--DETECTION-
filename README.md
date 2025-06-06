@@ -3,10 +3,9 @@
 
 📌 Features
 ## Real-time bus detection using OpenCV ## 
-
-Supports live webcam or video input
-Object detection using Haar Cascade or YOLO
-Bounding box visualization
+## Supports live webcam or video input
+ ## Object detection using Haar Cascade or YOLO
+ ## Bounding box visualization
 
 📁 Project Structure
 bash
