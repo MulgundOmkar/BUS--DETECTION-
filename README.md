@@ -1,13 +1,13 @@
-🚌 Bus Detection using OpenCV
+## 🚌 Bus Detection using OpenCV
 ## A real-time computer vision project that detects buses from a live video feed or video footage using OpenCV and Python. ##
 
-📌 Features
+## 📌 Features
 ## Real-time bus detection using OpenCV ## 
 ## Supports live webcam or video input
  ## Object detection using Haar Cascade or YOLO
  ## Bounding box visualization
 
-📁 Project Structure
+## 📁 Project Structure
 bash
 Copy
 Edit
